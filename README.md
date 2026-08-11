@@ -15,7 +15,7 @@ A Tampermonkey userscript that redirects Medium articles to [Freedium](https://f
 
 #### Quick Install
 
-<a href="https://culnaen.github.io/medium_unlocker/medium-unlocker.user.js" style="display: inline-block; padding: 10px 20px; background: #1db954; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Install / Установить</a>
+<a href="https://culnaen.github.io/medium-unlocker/medium-unlocker.user.js" style="display: inline-block; padding: 10px 20px; background: #1db954; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Install / Установить</a>
 
 #### Manual Install
 
@@ -73,7 +73,7 @@ Userscript для Tampermonkey, который перенаправляет ст
 
 #### Быстрая установка
 
-<a href="https://culnaen.github.io/medium_unlocker/medium-unlocker.user.js" style="display: inline-block; padding: 10px 20px; background: #1db954; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Install / Установить</a>
+<a href="https://culnaen.github.io/medium-unlocker/medium-unlocker.user.js" style="display: inline-block; padding: 10px 20px; background: #1db954; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Install / Установить</a>
 
 #### Ручная установка
 

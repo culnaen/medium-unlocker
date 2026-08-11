@@ -4,10 +4,10 @@
 // @version      2.0
 // @description  Redirect Medium articles to Freedium for free access / Перенаправляет статьи Medium на Freedium для бесплатного чтения
 // @author       culnaen
-// @homepageURL  https://github.com/culnaen/medium_unlocker
-// @supportURL   https://github.com/culnaen/medium_unlocker/issues
-// @updateURL    https://culnaen.github.io/medium_unlocker/medium-unlocker.user.js
-// @downloadURL  https://culnaen.github.io/medium_unlocker/medium-unlocker.user.js
+// @homepageURL  https://github.com/culnaen/medium-unlocker
+// @supportURL   https://github.com/culnaen/medium-unlocker/issues
+// @updateURL    https://culnaen.github.io/medium-unlocker/medium-unlocker.user.js
+// @downloadURL  https://culnaen.github.io/medium-unlocker/medium-unlocker.user.js
 // @icon         data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y=".9em" font-size="90">🔓</text></svg>
 // @match        https://medium.com/*
 // @match        https://*.medium.com/*
